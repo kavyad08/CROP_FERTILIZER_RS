@@ -1,2 +1,2 @@
 #Project-AICTE Shell Internship
-Please find attached my AICTE internship's week 1's progress 
+Please find attached the progress of my project-Crop& Fertilizer Recommendation System
